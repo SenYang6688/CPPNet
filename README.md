@@ -1,5 +1,5 @@
 # CPPNet: Coding Protein Predication Based on Deep Network of RNA Sequences  
-A deep learning-based method to predict protein-coding potential of RNAs 
+A deep learning-based method to predict protein-coding potential of RNA Sequences
 # Install 
 conda create -n CPPNetEnv python=3.6  
 conda activate CPPNet (or source activate CPPNetEnv)  
