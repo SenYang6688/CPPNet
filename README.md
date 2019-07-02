@@ -4,7 +4,7 @@ A deep learning-based method to predict protein-coding potential of RNA Sequence
 conda create -n CPPNetEnv python=3.6  
 conda activate CPPNet (or source activate CPPNetEnv)  
 conda install r  
-Rscript install_LncFinder.r  
+install.packages("LncFinder")  
 pip install numpy  
 pip install pandas  
 pip install sklearn  
