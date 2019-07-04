@@ -20,7 +20,7 @@ pip install rpy2==3.0.1
 Fasta format file
 # Outputs
 csv format file
-# Usage
+# Command Line Usage
 ## Human_CPPNet model
 $ ./code/Human_CPPNet.py -i input.fasta -o output.csv
 ## Cross-species CPPNet model
