@@ -17,7 +17,9 @@ pip install tensorflow
 pip install keras  
 pip install rpy2==3.0.1  
 # Inputs
-Fasta file
+Fasta format file
+# Outputs
+csv format file
 # Usage
 ## Human_CPPNet model
 $ ./code/Human_CPPNet.py -i input.fasta -o output.csv
